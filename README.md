@@ -1,4 +1,4 @@
-# Railway Management System
+# Railway Management System +
 
 ![Cover Photo](public/static/screenshots/Header.png)
 
