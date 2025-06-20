@@ -1,4 +1,4 @@
-# Railway Management System -git repository
+# Railway Management System -it repository
 
 ![Cover Photo](public/static/screenshots/Header.png)
 
